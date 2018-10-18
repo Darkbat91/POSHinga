@@ -1,7 +1,7 @@
 # POSHinga
 Powershell way to Send Checks to an ICINGA host
 
-This is used on my Servers to send host checks to an ICINGA server and can be utalized by any computer running powershell 4.0 or Higher.
+This is used on my Servers to send host checks to an ICINGA server and can be utilized by any computer running powershell 4.0 or Higher.
    - 4 is needed due to the JSON conversions and the invoke-webrequest. It can be downloaded from microsft at the below url
    
 
